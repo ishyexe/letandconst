@@ -1,2 +1,5 @@
-var PI = 3.14;
-PI = 42; // stop me from doing this!
+// var PI = 3.14; //
+// PI = 42; //
+
+var PI = [3.14];
+PI[1] = 42;
